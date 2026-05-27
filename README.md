@@ -21,6 +21,7 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Program :
+```
 NAME: PRANAVI S
 REGISTER NUMBER: 212225040311
 ACADEMIC YEAR: 2026-27
@@ -63,6 +64,7 @@ if(rho<1):
 else: 
     print("Warning! Objects overflow will happen in the conveyor") 
 print("-----------------------------------------------------")
+```
 
 
 ## Output :
